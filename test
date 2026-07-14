@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safe Digging Hub</title>
+    ">
+</head>
+<body>
+
+    <header>
+        <h1>Safe Digging Hub</h1>
+        <nav>
+            <aome</a>
+            #
+            #
+            #Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Dig Safely Before You Break Ground</h2>
+        <p>Utility searches, excavation planning and ground risk information in one place.</p>
+        #Request a Search</a>
+    </section>
+
+    <section class="services">
+        <div class="card">
+            <h3>Utility Searches</h3>
+            <p>Locate underground assets before excavation begins.</p>
+        </div>
+
+        <div class="card">
+            <h3>Ground Risk Reviews</h3>
+            <p>Identify site hazards and improve safety.</p>
+        </div>
+
+        <div class="card">
+            <h3>Permit Support</h3>
+            <p>Manage permits and compliance requirements.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Safe Digging Hub</p>
+    </footer>
+
+</body>
+</html>
+``
